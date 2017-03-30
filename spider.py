@@ -48,7 +48,7 @@ def randomJump():
 
 allLink = []
 # 从百度第一个词开始
-start = "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E6%95%B0%E6%8D%AE%E5%BA%93&oq=%25E4%25B8%2596%25E7%2595%258C%25E5%258D%2581%25E5%25A4%25A7%25E9%25BB%2591%25E5%25AE%25A2&rsv_pq=81d810110001fc85&rsv_t=0dc0TLK5%2FGWiLLaM7UL9qN2pgk9JpJujCjpxoxCVXQ1JrVfE5c%2B76X1wVgg&rqlang=cn&rsv_enter=1&rsv_sug3=16&rsv_sug1=10&rsv_sug7=100&rsv_sug2=0&inputT=3445&rsv_sug4=29538"
+start = "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=QQ&oq=%25E5%25BE%25AE%25E4%25BF%25A1&rsv_pq=b28a74310002352c&rsv_t=9a25FAe5iI0oBtkJggbiH%2FYYm4DC6yQnyLiEy5xc6EDJXlZW91NkF3HNWaA&rqlang=cn&rsv_enter=1&rsv_sug3=5&rsv_sug1=3&rsv_sug7=100&rsv_sug2=0&inputT=970&rsv_sug4=1607"
 
 driver.get(start)
 # driver.set_window_size(180,200)
